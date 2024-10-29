@@ -31,38 +31,38 @@
         </div>
         <aside class="flex flex-col ml-5 w-[41%]">
           <div class="flex flex-col">
-            <div class="flex flex-col items-start py-7 pr-32 pl-8 bg-white">
+            <router-link to="/blogPost" class="flex flex-col items-start py-7 pr-32 pl-8 bg-white">
               <div class="text-sm font-medium leading-none">
                 By <span class="text-amber-300">John Deo</span> l Aug 23, 2021
               </div>
               <h3 class="mt-2 text-2xl font-bold leading-8 text-gray-800">
                 8 Figma design systems that you can download for free today.
               </h3>
-            </div>
-            <div class="flex flex-col items-start py-7 pr-32 pl-8 bg-orange-50">
+            </router-link>
+            <router-link to="/blogPost" class="flex flex-col items-start py-7 pr-32 pl-8 bg-orange-50">
               <div class="text-sm font-medium leading-none">
                 By <span class="text-amber-300">John Doe</span> Aug 23, 2021
               </div>
               <h3 class="mt-2 text-2xl font-bold leading-8 text-gray-800">
                 8 Figma design systems that you can download for free today.
               </h3>
-            </div>
-            <div class="flex flex-col items-start py-7 pr-32 pl-8 bg-white">
+            </router-link>
+            <router-link to="/blogPost" class="flex flex-col items-start py-7 pr-32 pl-8 bg-white">
               <div class="text-sm font-medium leading-none">
                 By <span class="text-amber-300">John Doe</span> Aug 23, 2021
               </div>
               <h3 class="mt-2 text-2xl font-bold leading-8 text-gray-800">
                 8 Figma design systems that you can download for free today.
               </h3>
-            </div>
-            <div class="flex flex-col items-start py-7 pr-32 pl-8 bg-white">
+            </router-link>
+            <router-link to="/blogPost" class="flex flex-col items-start py-7 pr-32 pl-8 bg-white">
               <div class="text-sm font-medium leading-none">
                 By <span class="text-amber-300">John Doe</span> Aug 23, 2021
               </div>
               <h3 class="mt-2 text-2xl font-bold leading-8 text-gray-800">
                 8 Figma design systems that you can download for free today.
               </h3>
-            </div>
+            </router-link>
           </div>
         </aside>
       </div>

@@ -2,7 +2,13 @@
 import Header from '@/components/BlogPostComponent/Header.vue'
 import BlogBody from '@/components/BlogPostComponent/BlogBody.vue'
 import OtherPost from '@/components/BlogPostComponent/OtherPost.vue'
+import { onMounted } from 'vue';
+
+onMounted(() => {
+  window.scrollTo(0, 0);
+});
 </script>
+
 
 <template>
     <Header/>

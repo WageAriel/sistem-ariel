@@ -18,7 +18,7 @@
                 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
                 cupidatat non proident.
               </div>
-              <router-link to="/blogPost" class="gap-3 px-12 py-4 mt-8 text-lg font-bold leading-none text-white bg-blue-600 hover:bg-x-yellow transition duration-150 ease-in-out">
+              <router-link to="" class="gap-3 px-12 py-4 mt-8 text-lg font-bold leading-none text-white bg-blue-600 hover:bg-x-yellow transition duration-150 ease-in-out">
                 Read More >
               </router-link> 
             </div>

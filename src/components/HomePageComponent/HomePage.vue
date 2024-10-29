@@ -6,6 +6,11 @@ import Category from '@/components/HomePageComponent/Category.vue'
 import SpecialPost from '@/components/HomePageComponent/SpecialPost.vue'
 import ListAuthor from '@/components/HomePageComponent/ListAuthor.vue'
 import Testimoni from '@/components/HomePageComponent/Testimoni.vue'
+import { onMounted } from 'vue';
+
+onMounted(() => {
+  window.scrollTo(0, 0);
+});
 </script>
 
 <template>

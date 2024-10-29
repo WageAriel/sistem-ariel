@@ -1,6 +1,6 @@
 <template>
   <div class="w-[1147px] h-[1846px] relative ml-[130px] mt-[50px]">
-    <div class="w-[1146px] h-[318px] left-0 top-0 absolute">
+    <router-link to="/blogPost" class="w-[1146px] h-[318px] left-0 top-0 absolute">
       <div class="w-[624px] h-52 left-[522px] top-[55px] absolute">
         <div
           class="w-[183.37px] left-0 top-0 absolute text-amber-300 text-base font-semibold font-['Inter'] uppercase leading-tight tracking-[3px]">
@@ -15,8 +15,8 @@
         </div>
       </div>
       <img class="w-[490px] h-[318px] left-0 top-0 absolute" src="@/assets/images/Post/Post 1.png" />
-    </div>
-    <div class="w-[1146px] h-[318px] left-0 top-[380px] absolute">
+    </router-link>
+    <router-link to="/blogPost" class="w-[1146px] h-[318px] left-0 top-[380px] absolute">
       <div class="w-[624px] h-52 left-[522px] top-[55px] absolute">
         <div
           class="w-[183.37px] left-0 top-0 absolute text-amber-300 text-base font-semibold font-['Inter'] uppercase leading-tight tracking-[3px]">
@@ -31,8 +31,8 @@
         </div>
       </div>
       <img class="w-[490px] h-[318px] left-0 top-0 absolute" src="@/assets/images/Post/Post 2.png" />
-    </div>
-    <div class="w-[1146px] h-[318px] left-0 top-[760px] absolute">
+    </router-link>
+    <router-link to="/blogPost" class="w-[1146px] h-[318px] left-0 top-[760px] absolute">
       <div class="w-[624px] h-52 left-[522px] top-[80px] absolute">
         <div
           class="w-[183.37px] left-0 top-0 absolute text-amber-300 text-base font-semibold font-['Inter'] uppercase leading-tight tracking-[3px]">
@@ -48,8 +48,8 @@
         </div>
       </div>
       <img class="w-[490px] h-[318px] left-0 top-0 absolute" src="@/assets/images/Post/Post 3.png" />
-    </div>
-    <div class="w-[1146px] h-[318px] left-0 top-[1140px] absolute">
+    </router-link>
+    <router-link to="/blogPost" class="w-[1146px] h-[318px] left-0 top-[1140px] absolute">
       <div class="w-[624px] h-52 left-[522px] top-[60px] absolute">
         <div
           class="w-[183.37px] left-0 top-0 absolute text-amber-300 text-base font-semibold font-['Inter'] uppercase leading-tight tracking-[3px]">
@@ -65,8 +65,8 @@
         </div>
       </div>
       <img class="w-[490px] h-[318px] left-0 top-0 absolute" src="@/assets/images/Post/Post 4.png" />
-    </div>
-    <div class="w-[1146px] h-[318px] left-0 top-[1520px] absolute">
+    </router-link>
+    <router-link to="/blogPost" class="w-[1146px] h-[318px] left-0 top-[1520px] absolute">
       <div class="w-[624px] h-52 left-[522px] top-[60px] absolute">
         <div
           class="w-[183.37px] left-0 top-0 absolute text-amber-300 text-base font-semibold font-['Inter'] uppercase leading-tight tracking-[3px]">
@@ -82,7 +82,7 @@
         </div>
       </div>
       <img class="w-[490px] h-[318px] left-0 top-0 absolute" src="@/assets/images/Post/Post 1.png" />
-    </div>
+    </router-link>
   </div>
 
   <div class="w-[200px] flex ml-[680px] h-10 relative mt-[50px]">
