@@ -12,7 +12,7 @@
         <router-link to="/blog" class="text-white hover:text-x-yellow transition duration-150 ease-in-out">Blog</router-link>
       </li>
       <li>
-        <router-link to="/about" class="text-white hover:text-x-yellow transition duration-150 ease-in-out">About Us</router-link>
+        <router-link to="/aboutUs" class="text-white hover:text-x-yellow transition duration-150 ease-in-out">About Us</router-link>
       </li>
       <li>
         <router-link to="/contact" class="text-white hover:text-x-yellow transition duration-150 ease-in-out">Contact Us</router-link>
