@@ -12,7 +12,7 @@
       <div class="flex gap-6">
         <router-link to="/" class="grow">Home</router-link>
         <router-link to="/blog">Blog</router-link>
-        <router-link to="/about">About us</router-link>
+        <router-link to="/aboutUs">About us</router-link>
         <router-link to="/contact">Contact us</router-link>
         <router-link to="/privacy">Privacy Policy</router-link>
       </div>
@@ -31,7 +31,7 @@
               placeholder="Enter Your Email">
             </input>
             <button
-              class="gap-3 px-12 py-4 text-lg font-bold leading-none text-white whitespace-nowrap bg-blue-600 max-md:px-5">
+              class="gap-3 px-12 py-4 text-lg font-bold leading-none text-white whitespace-nowrap bg-blue-600 hover:bg-x-yellow transition duration-150 ease-in-out max-md:px-5">
               Subscribe
             </button>
           </div>

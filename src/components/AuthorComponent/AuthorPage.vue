@@ -1,6 +1,6 @@
 <template>
     <AuthorHeader />
-    <div class="w-[1024px] h-[832px] ml-[255px] mt-[100px] relative">
+    <div class="w-[1024px] h-[832px] ml-[255px] mt-[100px] mb-[100px] relative">
         <div class="left-0 top-0 absolute text-[#232536] text-5xl font-bold font-['Sen'] leading-[64px]">My Posts</div>
         <div class="w-[1024px] h-80 left-0 top-[128px] absolute">
             <div class="w-[580px] h-52 left-[444px] top-[56px] absolute">

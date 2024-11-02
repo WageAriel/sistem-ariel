@@ -6,6 +6,8 @@ import BlogPostView from '../views/BlogPostView.vue'
 import AboutUsView from '../views/AboutUsView.vue'
 import CategoryView from '../views/CategoryView.vue'
 import AuthorView from '../views/AuthorView.vue'
+import ContactView from '../views/ContactView.vue'
+import PrivacyView from '../views/PrivacyView.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -44,6 +46,16 @@ const router = createRouter({
       path: '/author',
       name: 'author',
       component: AuthorView,
+    },
+    {
+      path: '/contact',
+      name: 'contact',
+      component: ContactView,
+    },
+    {
+      path: '/privacy',
+      name: 'privacy',
+      component: PrivacyView,
     },
   ],
 })

@@ -6,9 +6,9 @@
       <div class="w-[296px] h-[324px] left-0 top-0 absolute bg-white"></div>
       <img class="w-32 h-32 left-[84px] top-[40px] absolute rounded-full"
         src="@/assets/images/HomePage/Floyd Miles.png" />
-      <div class="left-[76px] top-[188px] absolute text-gray-800 text-[28px] font-bold leading-10">
+      <router-link to="/author" class="left-[76px] top-[188px] absolute text-gray-800 text-[28px] font-bold leading-10">
         Floyd Miles
-      </div>
+      </router-link >
       <div
         class="w-60 left-[28px] top-[228px] absolute text-center text-gray-500 text-sm font-normal font-['Inter'] leading-tight">
         Content Writer @Company
@@ -30,8 +30,8 @@
     </div>
     <div class="w-[296px] h-[324px] left-[328px] top-[96px] absolute">
       <div class="w-[296px] h-[324px] left-0 top-0 absolute bg-white"></div>
-      <div class="left-[57px] top-[188px] absolute text-gray-800 text-[28px] font-bold leading-10">Dianne
-        Russell</div>
+      <router-link to="/author" class="left-[57px] top-[188px] absolute text-gray-800 text-[28px] font-bold leading-10">Dianne
+        Russell</router-link>
       <div
         class="w-60 left-[28px] top-[228px] absolute text-center text-gray-500 text-sm font-normal font-['Inter'] leading-tight">
         Content Writer @Company</div>
@@ -54,8 +54,8 @@
     </div>
     <div class="w-[296px] h-[324px] left-[656px] top-[96px] absolute">
       <div class="w-[296px] h-[324px] left-0 top-0 absolute bg-white"></div>
-      <div class="left-[67px] top-[188px] absolute text-gray-800 text-[28px] font-bold leading-10">Jenny
-        Wilson</div>
+      <router-link to="/author" class="left-[67px] top-[188px] absolute text-gray-800 text-[28px] font-bold leading-10">Jenny
+        Wilson</router-link>
       <div
         class="w-60 left-[28px] top-[228px] absolute text-center text-gray-500 text-sm font-normal font-['Inter'] leading-tight">
         Content Writer @Company</div>
@@ -78,8 +78,8 @@
     </div>
     <div class="w-[296px] h-[324px] left-[984px] top-[96px] absolute">
       <div class="w-[296px] h-[324px] left-0 top-0 absolute bg-white"></div>
-      <div class="left-[43px] top-[188px] absolute text-gray-800 text-[28px] font-bold leading-10">Leslie
-        Alexander</div>
+      <router-link to="/author" class="left-[43px] top-[188px] absolute text-gray-800 text-[28px] font-bold leading-10">Leslie
+        Alexander</router-link>
       <div
         class="w-60 left-[28px] top-[228px] absolute text-center text-gray-500 text-sm font-normal font-['Inter'] leading-tight">
         Content Writer @Company</div>
