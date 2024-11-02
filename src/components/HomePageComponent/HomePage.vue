@@ -6,6 +6,7 @@ import Category from '@/components/HomePageComponent/Category.vue'
 import SpecialPost from '@/components/HomePageComponent/SpecialPost.vue'
 import ListAuthor from '@/components/HomePageComponent/ListAuthor.vue'
 import Testimoni from '@/components/HomePageComponent/Testimoni.vue'
+import Featured from '@/components/HomePageComponent/Featured.vue'
 import { onMounted } from 'vue';
 
 onMounted(() => {
@@ -25,5 +26,6 @@ onMounted(() => {
   <Category/>
   <SpecialPost/>
   <ListAuthor/>
+  <Featured/>
   <Testimoni/>
 </template>

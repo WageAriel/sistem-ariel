@@ -3,7 +3,7 @@
     <div class="mt-12 w-full">
       <div class="flex gap-5">
         <div class="flex flex-col w-[25%] group hover:bg-blue-500 hover:text-white cursor-pointer">
-          <router-link to="">
+          <router-link to="/business">
             <div
             class="flex flex-col grow items-start p-8 w-full border border-solid border-gray-300 group-hover:border-transparent">
             <div class="flex overflow-hidden relative flex-col w-12 aspect-square fill-orange-50">
